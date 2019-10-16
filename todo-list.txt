@@ -1,7 +1,9 @@
 feed the monkey
-feed the dog
+[x] feed the dog
 kill the goose
 feed the cat
+[x] feed the cat
 feed the cat
+[x] feed the cat
 feed the cat
 feed the cat
